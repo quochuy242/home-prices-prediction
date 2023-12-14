@@ -1,3 +1,7 @@
+-->
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 #### This is Kaggle Competition.
 Link: https://www.kaggle.com/competitions/home-data-for-ml-course
 
